@@ -1,3 +1,6 @@
+//TODO: Clone this repo using Git Clone in your VS Code terminal.
+//TODO: Use 'Better Comments' extension on VS Code for better readability.
+
 //! What is Node.js?
 //* Node.js is an open-source, cross-platform JavaScript runtime environment.
 
